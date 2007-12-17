@@ -13,7 +13,6 @@ Source3: pm-fallback-suspend
 License: GPL
 Group: System/Kernel and hardware
 Url: http://wiki.mandriva.com/Docs/Hardware/PowerManagement
-BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch
 Conflicts: suspend-scripts < 1.27
 
