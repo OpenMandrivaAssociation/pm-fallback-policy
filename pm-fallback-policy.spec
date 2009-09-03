@@ -1,6 +1,6 @@
 %define name pm-fallback-policy
 %define version 0.1
-%define release %mkrel 5
+%define release %mkrel 6
 
 Summary: Power management fallback policy
 Name: %{name}
