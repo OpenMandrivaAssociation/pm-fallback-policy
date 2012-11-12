@@ -1,0 +1,5 @@
+sources:
+  "pm-fallback-shutdown:"	ff649beac942550099d4f2fa6ecba2c6fe257e21
+  "pm-fallback-suspend:"	5abc6a119784360355583b7ca8092c23d42f3390
+  "power-event:"	021030bb484f141e1df00f9c20b529bfd3241c13
+  "sleep-event:"	6cde5255631404bdf5bdec531d01c852b20df4d3
