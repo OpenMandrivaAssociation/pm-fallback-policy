@@ -1,0 +1,2 @@
+event=button/power (PWR.|PBTN)
+action=/etc/acpi/actions/pm-fallback-shutdown

@@ -1,0 +1,2 @@
+#!/bin/sh
+/usr/bin/pm-has-power-policy || /usr/sbin/pm-suspend
