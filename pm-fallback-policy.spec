@@ -1,7 +1,7 @@
 Summary:	Power management fallback policy
 Name:		pm-fallback-policy
 Version:	0.1
-Release:	13
+Release:	14
 License:	GPLv2
 Group:		System/Kernel and hardware
 Url:		http://wiki.mandriva.com/Docs/Hardware/PowerManagement
