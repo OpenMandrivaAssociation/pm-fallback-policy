@@ -4,7 +4,7 @@ Version:	0.1
 Release:	22
 License:	GPLv2
 Group:		System/Kernel and hardware
-Url:		http://wiki.mandriva.com/Docs/Hardware/PowerManagement
+Url:		https://wiki.mandriva.com/Docs/Hardware/PowerManagement
 Source0:	power-event
 Source1:	sleep-event
 Source2:	pm-fallback-shutdown
